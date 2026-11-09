@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# macOS
+.DS_Store
+
+# Datasets and archives
+dataset/
+*.tar.gz
+
+# Experiment outputs
+runs/
